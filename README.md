@@ -1,10 +1,6 @@
 # 🍴welcome to 이븐한맛집🍴
 
 ### 흑백요리사 맛집 리스트와 식당 위치 기반 지도, 리뷰 서비스를 지원하는 프로젝트
-배포 링크: [https://outsourcing-project-dun.vercel.app/](https://outsourcing-project-dun.vercel.app/)
-
-<br />
-
 ![Macbook Pro - Dark Background](https://github.com/user-attachments/assets/9f6fdcab-10ad-4137-b904-69d7027fb868)
 
 
